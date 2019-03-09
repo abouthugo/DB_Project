@@ -8,3 +8,4 @@ database.mssql
 public_html/db_admin
 public_html/employee
 public_html/owner
+private-admin/

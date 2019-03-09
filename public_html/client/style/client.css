@@ -1,0 +1,38 @@
+.img-thumbnail
+{
+  height: 150pt;
+}
+
+.space-card{
+  margin-bottom: 40pt;
+
+}
+
+.center-this{
+  text-align: center;
+}
+/* to hide elements in forms */
+.hidden-collapse{
+  visibility: collapse;
+}
+
+/* Fixed position for a button */
+.fixed{
+  position: fixed;
+  top: 430pt;
+  left: -8pt;
+}
+
+.saved{
+  /*background-image: linear-gradient(to right top, #2bc0e4, #00d3dc, #00e1b5, #3dea76, #a8eb12);*/
+}
+
+.history{
+  /*background-image: linear-gradient(to right top, #4cb8c4, #3dbfc3, #31c6bf, #31cdb7, #3cd3ad);*/
+}
+
+.rad-background{
+    background-image: linear-gradient(to bottom, #343a40, #385969, #297c8d, #00a1a6, #00c6b3);
+    background-repeat: no-repeat;
+}
+

@@ -1,0 +1,19 @@
+.dark {
+  background: rgb(52,58,64); /* dark background color */
+  color: rgb(154,157,160);  /* dark font color */
+}
+p{
+  text-align: justify;
+}
+table.spacing td{
+  width: 100pt;
+  height: 2em;
+}
+tr td:nth-child(2){
+  text-align: right;
+}
+
+table {
+  border-bottom: 2pt solid black;
+  margin-bottom: 10px;
+}
