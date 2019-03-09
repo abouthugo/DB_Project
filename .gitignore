@@ -1,5 +1,5 @@
 # database file
-database*
+database.mssql
 
 # misc
 .DS_Store
