@@ -3,3 +3,8 @@ database.mssql
 
 # misc
 .DS_Store
+
+# team member's code
+public_html/db_admin
+public_html/employee
+public_html/owner
